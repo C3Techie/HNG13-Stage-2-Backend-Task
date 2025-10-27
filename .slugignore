@@ -1,0 +1,5 @@
+*.md
+test-*.sh
+test-*.png
+.git
+.vscode
